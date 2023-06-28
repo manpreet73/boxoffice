@@ -2,7 +2,7 @@
   "name": "box-office",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://manpreet73.github.io/box-office",
+  "homepage": "https://manpreet73.github.io/boxoffice",
   "dependencies": {
     "eslint": "^8.43.0",
     "eslint-plugin-react": "^7.32.2",
